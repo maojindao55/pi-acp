@@ -1,5 +1,5 @@
 {
-  "name": "@maojindao55/pi-acp",
+  "name": "@hobby0524/pi-acp",
   "version": "0.0.34-fb.1",
   "description": "ACP adapter for pi coding agent (fork of svkozak/pi-acp with MCP server bridging)",
   "license": "MIT",
