@@ -1,6 +1,6 @@
 {
   "name": "@hobby0524/pi-acp",
-  "version": "0.0.34-fb.1",
+  "version": "0.0.34-fb.2",
   "description": "ACP adapter for pi coding agent (fork of svkozak/pi-acp with MCP server bridging)",
   "license": "MIT",
   "author": "Sergii Kozak <svkozak@gmail.com>",
